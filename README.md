@@ -8,18 +8,5 @@ I'm Leonardo, a Data Scientist based in Spain. I love searching for new datasets
 
 Here you can check out the main programming languages I use on a daily bases. I love exploring new frameworks and disciplines, though.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosanchezsoler&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
-})
-![image]({https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-})
-![image]({https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
-})
-![image]({https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white
-})
-![image]({https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-})
-![image]({https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-})
-![image]({https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
-})
-![image]({BadgeURLHere})
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
+}" />
