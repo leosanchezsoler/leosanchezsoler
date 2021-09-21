@@ -10,7 +10,6 @@ Here you can check out the main programming languages I use on a daily bases. I 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosanchezsoler&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
