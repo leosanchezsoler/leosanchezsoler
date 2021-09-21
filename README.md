@@ -6,7 +6,7 @@ I'm Leonardo, a Data Scientist based in Spain. I love searching for new datasets
 
 ## Skills and Experience
 
-Here you can check out the main programming languages I use on a daily bases. I love exploring new frameworks and disciplines, though.
+Here you can check out the main programming languages I use on a daily basis. I love exploring new frameworks and disciplines, though.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosanchezsoler&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,3 +22,7 @@ Here you can check out the main programming languages I use on a daily bases. I 
 
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+## Wanna talk? 
+![https://www.linkedin.com/in/leonardosanchezsoler/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![leonardo.sanchezsoler@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
