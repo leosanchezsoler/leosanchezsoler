@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! It's me, Leo 🦁
 
 I'm Leonardo, a Data Scientist based in Spain. I love searching for new datasets and watching my initial thoughts demolished when data talks. It's oddly satisfying. I think in a way I'm like one of those (apparently) insignificant rows trying to sketch the big picture.
 
