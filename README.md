@@ -1,2 +1,2 @@
 # Hi there! 👋 It's me, Leo
-SRE with a Strong Product Engineering mindset
+SRE with a strong Product Engineering mindset
